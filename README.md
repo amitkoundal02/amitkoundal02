@@ -34,6 +34,6 @@ Together, these two repos cover provisioning, configuration management, monitori
 
 ## Currently
 
-Actively looking for Infrastructure Operations / Systems Engineer / DevOps Support roles, and continuing to build out the projects above (next up: Lambda, IAM instance profiles, and a proper S3 + DynamoDB remote backend).
+Actively looking for Infrastructure Operations / Systems Engineer / DevOps Support roles.
 
 📫 Reach me at amitkoundal02@gmail.com

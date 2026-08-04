@@ -1,39 +1,144 @@
-# Hi, I'm Amit Koundal
+# Hi 👋, I'm Amit Koundal
 
-Infrastructure Operations Engineer with 10+ years across Linux/Windows server support, data center operations, and IT service management — and 5+ years of additional hands-on work in cloud and DevOps tooling (AWS, Kubernetes, Terraform, Ansible).
+## Infrastructure Operations | Cloud | DevOps Engineer
 
-I work across the full stack of infrastructure: hardware configuration, OS installation, RAID/SAN storage, incident and change management, and increasingly, cloud-native automation and monitoring.
+Infrastructure professional with **10+ years of experience** in Linux/Windows server administration, data center operations, infrastructure support, and IT service management, along with **5+ years of hands-on experience** in AWS Cloud, Infrastructure as Code, automation, containerization, and DevOps practices.
 
-📍 Bengaluru, India · 🎓 AWS Certified Solutions Architect – Associate
+I enjoy building reliable, secure, and automated infrastructure—from physical servers and enterprise data centers to cloud-native environments using Terraform, Ansible, Docker, and Kubernetes.
+
+Currently expanding my expertise in **Agentic AI for Infrastructure & DevOps Automation**, focusing on intelligent operational workflows and AI-assisted cloud management.
+
+📍 Bengaluru, India
+
+🎓 AWS Certified Solutions Architect – Associate
+
 🔗 [LinkedIn](https://www.linkedin.com/in/amit-koundal-5833ba33a)
 
 ---
 
-## What I work with
+# 🚀 Technical Skills
 
-**Cloud:** AWS (EC2, VPC, IAM, S3, RDS, EKS, Route53, CloudWatch)
-**IaC & Automation:** Terraform, Ansible (roles, playbooks, Vault, dynamic inventory)
-**Containers:** Docker, Kubernetes
-**Monitoring:** Prometheus, Grafana, ELK Stack
-**Systems:** Linux (RHEL, CentOS, Ubuntu), Windows Server, VMware
-**Data Center Ops:** RAID, SAN/LAN storage, Remedy ITSM, change/incident management
+### ☁️ Cloud
+
+* AWS (EC2, VPC, IAM, S3, RDS, Route 53, CloudWatch, EKS)
+
+### 🏗 Infrastructure as Code & Automation
+
+* Terraform
+* Ansible
+* Ansible Vault
+* Dynamic Inventory
+* Roles & Playbooks
+
+### 🚢 Containers & Orchestration
+
+* Docker
+* Kubernetes
+
+### 📊 Monitoring & Logging
+
+* Prometheus
+* Grafana
+* ELK Stack
+
+### 💻 Operating Systems
+
+* Linux (RHEL, CentOS, Ubuntu)
+* Windows Server
+
+### 🏢 Infrastructure & Data Center Operations
+
+* Server Installation & Configuration
+* RAID Configuration
+* SAN/LAN Storage
+* OS Deployment
+* Backup & Recovery
+* Incident Management
+* Change Management
+* ITSM (BMC Remedy)
+
+### 🔧 Version Control, CI/CD & GitOps
+
+- Git
+- GitHub
+- GitHub Actions (Hands-on Learning)
+- GitOps (Hands-on Learning)
+- Push-Based Deployment Strategy
+- Pull-Based Deployment Strategy
 
 ---
 
-## Featured projects
+# 🌟 Featured Projects
 
-### 🏗️ [infa](https://github.com/amitkoundal02/infa) — Multi-tier AWS infrastructure on Terraform
-A 3-tier, multi-AZ AWS environment provisioned end-to-end with Terraform: bastion host, HAProxy load balancer, web/app tier, database tier, and a dedicated monitoring node, all inside a custom VPC with least-privilege security groups and a remote state backend on HCP Terraform.
+## 🏗 AWS Multi-Tier Infrastructure with Terraform
 
-### ⚙️ [ansible_fullstack_webapp](https://github.com/amitkoundal02/ansible_fullstack_webapp) — Configuration management for the above
-Ansible roles and playbooks that configure everything Terraform provisions: HAProxy, MariaDB, Prometheus/Grafana, and node_exporter fleet-wide — with dynamically templated configs, Ansible Vault–encrypted secrets, and a script that re-syncs SSH config and inventory automatically against live AWS state.
+Designed and provisioned a production-style multi-tier AWS environment using Terraform.
 
-Together, these two repos cover provisioning, configuration management, monitoring, and security design for a real multi-tier application — not a tutorial copy, built and iterated on as a personal lab.
+### Highlights
+
+* Custom VPC architecture
+* Public & Private Subnets
+* Bastion Host
+* HAProxy Load Balancer
+* Web/Application Tier
+* Database Tier
+* Dedicated Monitoring Server
+* Security Groups with least-privilege access
+* Route Tables & Internet/NAT Gateway
+* HCP Terraform Remote Backend
+* Modular Terraform codebase
 
 ---
 
-## Currently
+## ⚙️ Full Stack Infrastructure Automation with Ansible
 
-Actively looking for Infrastructure Operations / Systems Engineer / DevOps Support roles.
+Automated complete server configuration for the Terraform-provisioned infrastructure.
 
-📫 Reach me at amitkoundal02@gmail.com
+### Features
+
+* HAProxy deployment
+* MariaDB configuration
+* Prometheus installation
+* Grafana dashboards
+* Node Exporter automation
+* Dynamic inventory generation
+* SSH configuration automation
+* Ansible Vault encrypted secrets
+* Role-based playbook architecture
+
+---
+
+Together, these repositories demonstrate an end-to-end Infrastructure Automation workflow:
+
+**Terraform → AWS Infrastructure → Ansible Configuration → Monitoring → Security → Operations**
+
+Everything has been built as a personal engineering lab to simulate real-world enterprise infrastructure rather than following tutorial-based examples.
+
+---
+
+# 📚 Currently Learning
+
+* Agentic AI for Infrastructure & DevOps
+* AWS AI Practitioner
+
+---
+
+# 💼 Open to Opportunities
+
+I am actively seeking opportunities in:
+
+* Infrastructure Operations Engineer
+* Cloud Engineer
+* DevOps Engineer
+* Platform Engineer
+* Systems Engineer
+* Infrastructure Automation Engineer
+* Site Reliability Engineer (SRE)
+
+---
+
+## 🤝 Let's Connect
+
+If you're looking for someone passionate about infrastructure automation, cloud technologies, and continuous learning, I'd be happy to connect and collaborate.
+
+📧 **Email:** **[amitkoundal02@gmail.com](mailto:amitkoundal02@gmail.com)**
